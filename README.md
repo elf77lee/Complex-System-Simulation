@@ -17,4 +17,6 @@ Complexity
 Algorithmic information theory
 
 
-# final project:
+## final project:
+
+Self-propagating star formation of spiral galaxies
