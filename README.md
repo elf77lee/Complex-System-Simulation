@@ -15,3 +15,6 @@ Phase Transitions
 Complexity
 
 Algorithmic information theory
+
+
+# final project:
